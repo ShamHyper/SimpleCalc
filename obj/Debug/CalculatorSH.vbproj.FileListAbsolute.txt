@@ -1,0 +1,13 @@
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\bin\Debug\CalculatorSH.exe.config
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\bin\Debug\CalculatorSH.exe
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\bin\Debug\CalculatorSH.pdb
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\bin\Debug\CalculatorSH.xml
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.vbproj.AssemblyReference.cache
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.Form1.resources
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.Resources.resources
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.vbproj.GenerateResource.cache
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.vbproj.CoreCompileInputs.cache
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.exe
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.xml
+C:\Users\ShamHyper\source\repos\CalculatorSH\CalculatorSH\obj\Debug\CalculatorSH.pdb
