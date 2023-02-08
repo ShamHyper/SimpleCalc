@@ -27,7 +27,7 @@ Public Class Form1
 
     Private Sub RichTextBox1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox1.KeyPress, RichTextBox1.KeyPress
         Dim ShCu$ = vbBack & ChrW(1) & ChrW(22) & ChrW(24) & ChrW(26) & ChrW(3)
-        e.KeyChar = If("0123456789".Contains(e.KeyChar) OrElse ShCu.Contains(e.KeyChar), e.KeyChar, Nothing)
+        e.KeyChar = If("0123456789.".Contains(e.KeyChar) OrElse ShCu.Contains(e.KeyChar), e.KeyChar, Nothing)
     End Sub
 
 
